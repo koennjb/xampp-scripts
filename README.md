@@ -1,5 +1,5 @@
 # xampp-scripts
-T
+
 A simple script to start and stop a local XAMPP server running on Linux. The directory for the server should be /opt/lampp.
 
 ## Usage
